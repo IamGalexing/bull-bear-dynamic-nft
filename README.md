@@ -1,13 +1,4 @@
-# Sample Hardhat Project
+# Dynamic Bull&Bear NFT based on market situation
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+Deployed contract on Etherscan: 
+https://goerli.etherscan.io/address/0x754A7E777a8b08328d24DFa35e34f9CF1C93433C#code
